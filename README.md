@@ -15,7 +15,7 @@ Source: Apologise to XKCD
 
 ## The Invisible Army Holding Up Modern Civilization
 
-The critical infrastructure that feeds, funds, powers, and protects billions of people—the foundation of modern life itself—is held together by an invisible army of maintainers you've never heard of, using funding models that don't exist, following security practices that nobody can verify.
+The critical infrastructure that feeds, funds, powers, and protects billions of people—the foundation of modern life itself—is held together by an invisible army of maintainers you've never heard of, using funding models that take the fun out of funding and take the good out of good will , they substantially don't exist. And so unsurprisingly security practices are just that practices that will be perfect at a date exactly after the terrible thing happens.
 
 **This isn't about "one random person in Nebraska."** 
 
