@@ -9,7 +9,7 @@
 Source: XKCD #2347 by Randall Munroe - https://xkcd.com/2347/ (Licensed under CC BY-NC 2.5)
 
 ## The Civilization-Scale Crisis We All Pretend Doesn't Exist:
-<p align="center"> <img src="/allmods.png"> </p>
+<p align="center"> <img src="/allmods.png" width="50%"> </p>
 Source: Apologise to XKCD 
 
 
