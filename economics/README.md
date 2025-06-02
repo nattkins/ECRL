@@ -31,7 +31,7 @@ The invisible army maintaining civilization's critical infrastructure is burning
 **Adversarial Pool Creation**: Those pre-release bounty payments create a permanent verification fund. Security researchers can now challenge live attestations for escalating payouts. The harder an attestation is to break, the bigger the reward for breaking it.
 
 **Timeline-Based Payouts**: Breaking a component that's been trusted for longer periods pays exponentially more, because finding flaws in widely-trusted systems prevents cascade failures.
-```
+
 
 ### 3. Time-Escalating Adversarial Payouts: Making White Hat More Profitable Than Black Hat
 
